@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Room finder</string>
+    <string name="roomfinder_service_label">Room finder</string>
+    <string name="roomfinder_service_desc">This permission helps \'Room finder\' to find available rooms in free fire</string>
+    <string name="roomfinder_service_summery">Finds available rooms in ff</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+</resources>

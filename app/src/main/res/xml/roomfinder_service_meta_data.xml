@@ -1,0 +1,9 @@
+<accessibility-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accessibilityFeedbackType="feedbackGeneric"
+    android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews|flagReportViewIds"
+    android:canPerformGestures="true"
+    android:canRetrieveWindowContent="true"
+    android:description="@string/roomfinder_service_desc"
+    android:settingsActivity="com.gameofcoding.roomfinder.activities.MainActivity"
+    android:summary="@string/roomfinder_service_summery"/>
